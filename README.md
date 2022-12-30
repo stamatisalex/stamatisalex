@@ -1,6 +1,6 @@
 - 👋 Hi , I’m Stamatis
 - 👀 I’m interested in Machine Learing, Computer Vision, Human Computer Interaction and Robotis
-- 🔭 I’m currently working on Semantic Segmentation under the supervision of Prof. [Petros Maragos](http://cvsp.cs.ntua.gr/maragos/) ([NTUA](https://www.ntua.gr/el/)) and Dr. [Christos Sakaridis](https://people.ee.ethz.ch/~csakarid/) ([ETH Zurich](https://ethz.ch/en.html)) 
+- 🔭 I’m currently working on Semantic Segmentation under the supervision of [Prof. Petros Maragos](http://cvsp.cs.ntua.gr/maragos/) ([NTUA](https://www.ntua.gr/el/)) and [Dr. Christos Sakaridis](https://people.ee.ethz.ch/~csakarid/) ([ETH Zurich](https://ethz.ch/en.html)) 
 - 📫 How to reach me stamatisalex7@gmail.com
 
 
