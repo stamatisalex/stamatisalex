@@ -1,4 +1,5 @@
 - 👋 Hi , I’m Stamatis
+- 🎓 Valedictorian of the school of Electrical and Computer Engineering of the National Technical University of Athens (GPA: 9.79/10, 5-year M.Eng Diploma Degree, 2017-2022)
 - 👀 I’m interested in Machine Learning, Computer Vision, Human Computer Interaction and Robotics
 - 🔭 I’m currently working on Semantic Segmentation under the supervision of [Prof. Petros Maragos](http://cvsp.cs.ntua.gr/maragos/) ([NTUA](https://www.ntua.gr/el/)) and [Dr. Christos Sakaridis](https://people.ee.ethz.ch/~csakarid/) ([ETH Zurich](https://ethz.ch/en.html)) 
 - 📫 How to reach me: stamatisalex7@gmail.com
