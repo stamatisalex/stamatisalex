@@ -12,18 +12,21 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python3" width="40" height="40"/> 
   </a> 
+     <a href="https://www.swi-prolog.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prolog.svg?sanitize=true" alt="prolog" width="40" height="40"/>
+  </a>
+ 
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
   <a href="https://sqlite.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="70" height="40"/>
   </a> 
+  
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a>
@@ -32,9 +35,6 @@
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-  <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://www.r-project.org/logo/Rlogo.png" alt="RLang" width="40" height="40"/> 
   </a>
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="javascript" width="40" height="40"/> 
@@ -54,6 +54,7 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="40" height="40"/>
   </a>
+  
   
 </p>
 
