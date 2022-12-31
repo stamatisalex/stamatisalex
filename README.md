@@ -78,9 +78,6 @@
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="70" height="40"/> 
   </a>
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="80" height="40"/> 
-  </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="55" height="50"/> 
   </a>
