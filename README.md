@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
   <a href="https://sqlite.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="70" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40" height="40"/>
   </a> 
   
   <a href="https://mariadb.org/" target="_blank"> 
@@ -91,7 +91,7 @@
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> 
   </a>
     <a href="https://wandb.ai/site" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/wandb/wandb/main/.github/wb-logo-darkbg.png" alt="docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/wandb/wandb/main/.github/wb-logo-darkbg.png" alt="docker" width="70" height="40"/> 
   </a>
 </p>
 <!---
