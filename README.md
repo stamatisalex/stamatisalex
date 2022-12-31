@@ -90,6 +90,9 @@
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> 
   </a>
+    <a href="https://wandb.ai/site" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/wandb/wandb/main/.github/wb-logo-darkbg.png" alt="docker" width="40" height="40"/> 
+  </a>
 </p>
 <!---
 stamatisalex/stamatisalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
